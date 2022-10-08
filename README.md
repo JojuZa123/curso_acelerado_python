@@ -1,6 +1,7 @@
 # curso_acelerado_python
-<p aling="center">
-<img= src="logopython.png" width="300>
+<p align="center">
+<img src="logopython.png" width="300">
 </p>
-Ejercicios y Actividades del curso acelerado Python
+Ejercicios realizados por sesión de clases:
+
 [Sesion Uno](/sesion1/README.md)
